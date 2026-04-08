@@ -1,23 +1,23 @@
 Q1. What is your first and last name? (This is important so that we can link your GitHub username to you.)
 
-A1. <WRITE YOUR ANSWER TO Q1 HERE>
+A1. Wyatt Kuchta
 
 Q2. Do you have any programming experience? If so, how much, and what programming languages have you used?
 
-A2. <WRITE YOUR ANSWER TO Q2 HERE>
+A2. I have minimal experience in Python, Arduino, and RobotC
 
 Q3. Do you have experience writing code in C++?
 
-A3. <WRITE YOUR ANSWER TO Q3 HERE>
+A3. I have experience in C based languages, but not C++ explicitly.
 
 Q4. How do you think learning to solve computational problems and write programs could benefit an engineer, regardless of their field?
 
-A4. <WRITE YOUR ANSWER TO Q4 HERE>
+A4. Engineers are problem solvers by definition, and learning how to think very computationally will greatly improve the efficiency of our problem solving. Additionally, we can use programming as a tool in order to help create algorithms and programs to solve complex computations or simulations. 
 
 Q5. Do you think learning to solve computational problems and write programs could benefit you in everyday life? If so, how?
 
-A5. <WRITE YOUR ANSWER TO Q5 HERE>
+A5. Learning to solve computational problems could definitely benefit me in daily life. Life is all about decision making and to some extent problem solving, so by increasing the efficiency and accuracy of my decision making will streamline our life. Writing programs has a use in any scenerio or field and could make me more well rounded and quick to solve problems such as taxes, data sorting, or even projects to make my life more simple. 
 
 Q6. We may have time for a special topics lecture at the end of the term, depending on how the term unfolds. Are there any special topics related to computer science that you're curious about? (e.g., an introduction to machine learning, computer graphics, object oriented programming, functional programming, frontend development, backend development, databases, cloud development, mobile app development, etc.)
 
-A6. <WRITE YOUR ANSWER TO Q6 HERE>
+A6. I would love an introduction to machine learning and if we have enough time after that I would absolutely love learning about databases.
